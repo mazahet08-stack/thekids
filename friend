@@ -1,5 +1,6 @@
 
 
+
 <!DOCTYPE html>
 <html data-theme='default'>
 <head>
@@ -8,13 +9,13 @@
 <link rel="icon" type="image/x-icon" href="https://friendsoffirststate.org/images/faviconina.png" />
 <link rel="apple-touch-icon" href="https://friendsoffirststate.org/images/faviconina.png">
 <link rel="canonical" href="https://friendsoffirststate.org/donate">
-<link rel="amphtml" href="https://friendsoffirststate.vercel.app/" />
-<link rel="alternate" hreflang="id-id" href="https://friendsoffirststate.vercel.app/"/>
-<link rel="alternate" href="https://friendsoffirststate.vercel.app/"/>
-<link rel="alternate" hreflang="id" href="https://friendsoffirststate.vercel.app/"/>
-<link rel="alternate" hreflang="en" href="https://friendsoffirststate.vercel.app/"/>
-<link rel="alternate" hreflang="x-default" href="https://friendsoffirststate.vercel.app/"/>
-<link as='image' href='https://friendsoffirststate.org/images/ina-banner.jpg' rel='preload'>
+<link rel="amphtml" href="https://more.friendsoffirststate.org/" />
+<link rel="alternate" hreflang="id-id" href="https://more.friendsoffirststate.org/"/>
+<link rel="alternate" href="https://more.friendsoffirststate.org/"/>
+<link rel="alternate" hreflang="id" href="https://more.friendsoffirststate.org/"/>
+<link rel="alternate" hreflang="en" href="https://more.friendsoffirststate.org/"/>
+<link rel="alternate" hreflang="x-default" href="https://more.friendsoffirststate.org/"/>
+<link as='image' href='https://friendsoffirststate.org/images/copy-selalu.jpg' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
@@ -65,7 +66,7 @@
 <meta property="og:price:currency" content="USD">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://friendsoffirststate.org/donate">
-<meta property="og:image" content="https://friendsoffirststate.org/images/ina-banner.jpg">
+<meta property="og:image" content="https://friendsoffirststate.org/images/copy-selalu.jpg">
 <meta property="og:site_name" content="TeePublic">
 <meta property="product:price:amount" content="23.00">
 <meta property="product:brand" content="TeePublic">
@@ -278,14 +279,14 @@ INATOGEL
 </div>
 
 <div class="btn-wrapper">
-  <a href="https://friendsoffirststate.vercel.app/"
+  <a href="https://more.friendsoffirststate.org/"
      class="btn-pill btn-login"
      target="_top"
      rel="noopener noreferrer">
     LOGIN
   </a>
 
-  <a href="https://friendsoffirststate.vercel.app/"
+  <a href="https://more.friendsoffirststate.org/"
      class="btn-pill btn-daftar"
      target="_top"
      rel="noopener noreferrer">
@@ -421,7 +422,7 @@ Selamat Datang Di INATOGEL > Portal Resmi Agen Togel Online Toto Macau 4D Top#1 
             "@context": "https://schema.org",
             "@type": "Product",
             "name": "INATOGEL > Portal Resmi Agen Togel Online Toto Macau 4D Top#1 Pasaran Terlengkap",
-            "image": "https://friendsoffirststate.org/images/ina-banner.jpg",
+            "image": "https://friendsoffirststate.org/images/copy-selalu.jpg",
             "description": "INATOGEL adalah portal resmi agen togel online toto 4d premium yang jadi pilihan top nomor 1 dengan pasaran togel terlengkap, data akurat serta akses aman setiap hari.",
             "brand": {
                 "@type": "Brand",
@@ -687,12 +688,12 @@ Back
 <ul class='glide__slides'>
 <li class='glide__slide m-product-preview__glider-slide' data-default='active' data-id='0' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='INATOGEL > Portal Resmi Agen Togel Online Toto Macau 4D Top#1 Pasaran Terlengkap by Hey INATOGEL' class='mockup jsProductMainImage' src='https://friendsoffirststate.org/images/ina-banner.jpg'>
+<img alt='INATOGEL > Portal Resmi Agen Togel Online Toto Macau 4D Top#1 Pasaran Terlengkap by Hey INATOGEL' class='mockup jsProductMainImage' src='https://friendsoffirststate.org/images/copy-selalu.jpg'>
 </picture>
 </li>
 <li class='glide__slide m-product-preview__glider-slide' data-default='' data-id='1' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='INATOGEL by Hey INATOGEL' class='preview jsProductMainImage' src='https://friendsoffirststate.org/images/ina-banner.jpg'>
+<img alt='INATOGEL by Hey INATOGEL' class='preview jsProductMainImage' src='https://friendsoffirststate.org/images/copy-selalu.jpg'>
 </picture>
 </li>
 </ul>
@@ -716,7 +717,7 @@ Back
 <a data-id="0" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
-<img alt='INATOGEL > Portal Resmi Agen Togel Online Toto Macau 4D Top#1 Pasaran Terlengkap by Hey INATOGEL' class='mockup' loading='lazy' src='https://friendsoffirststate.org/images/ina-banner.jpg'>
+<img alt='INATOGEL > Portal Resmi Agen Togel Online Toto Macau 4D Top#1 Pasaran Terlengkap by Hey INATOGEL' class='mockup' loading='lazy' src='https://friendsoffirststate.org/images/copy-selalu.jpg'>
 </picture>
 
 </span>
@@ -724,7 +725,7 @@ Back
 </a><a data-id="1" href="javascript:void(0);" class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='1'>
-<img alt='INATOGEL ' class='preview' loading='lazy' src='https://friendsoffirststate.org/images/ina-banner.jpg'>
+<img alt='INATOGEL ' class='preview' loading='lazy' src='https://friendsoffirststate.org/images/copy-selalu.jpg'>
 </picture>
 
 </span>
@@ -751,9 +752,9 @@ Back
 <div class='m-cart-config__select-label'>
 </div>
     <div class="ina-togel-btn">
-    <a href="https://friendsoffirststate.vercel.app/" rel="nofollow noreferrer"
+    <a href="https://more.friendsoffirststate.org/" rel="nofollow noreferrer"
          class="login">LOGIN</a>
-    <a href="https://friendsoffirststate.vercel.app/" rel="nofollow noreferrer"
+    <a href="https://more.friendsoffirststate.org/" rel="nofollow noreferrer"
         class="register">DAFTAR</a>
     </div>
 
@@ -1585,7 +1586,7 @@ Read more
 </script>
 
     <div class="seller-name__detail">
-      <a href="https://friendsoffirststate.vercel.app/" target="_top" rel="noopener noreferrer">
+      <a href="https://more.friendsoffirststate.org/" target="_top" rel="noopener noreferrer">
         INATOGEL - 2026
       </a>
     </div>
@@ -1602,7 +1603,7 @@ Share this design:
 <div class='jsSocial'>
 <ul class='m-social-share'>
 <li>
-<a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://friendsoffirststate.vercel.app/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
+<a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://more.friendsoffirststate.org/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1610,7 +1611,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://friendsoffirststate.vercel.app/" class="link gtmFbProductShare facebook link--1 link--default">
+<a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://more.friendsoffirststate.org/" class="link gtmFbProductShare facebook link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1618,7 +1619,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Linktree" target="_blank" href="https://friendsoffirststate.vercel.app/" class="link gtmLinktreeProductShare linktree link--1 link--default">
+<a aria-label="Share to Linktree" target="_blank" href="https://more.friendsoffirststate.org/" class="link gtmLinktreeProductShare linktree link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1626,7 +1627,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://friendsoffirststate.vercel.app/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
+<a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://more.friendsoffirststate.org/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1634,7 +1635,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Reddit" target="_blank" href="https://friendsoffirststate.vercel.app/" class="link gtmRedditProductShare reddit link--1 link--default">
+<a aria-label="Share to Reddit" target="_blank" href="https://more.friendsoffirststate.org/" class="link gtmRedditProductShare reddit link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1642,7 +1643,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Tumblr" target="_blank" href="https://friendsoffirststate.vercel.app/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
+<a aria-label="Share to Tumblr" target="_blank" href="https://more.friendsoffirststate.org/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -2754,7 +2755,7 @@ Shop All Designs
   
   var rsEnvData = {
     write_key: "2HNPADTAqRU1fVtw8bfPRR44gtx",
-    data_plane_url: "https://friendsoffirststate.vercel.app/",
+    data_plane_url: "https://more.friendsoffirststate.org/",
     js_use_beacon: false,
     anonymous_id: "cd1d819e-a9e0-4e3d-b8be-56639cfbd299",
     global_properties: window.rudderstackGlobalProperties
@@ -3171,11 +3172,11 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
         <div class="luxury-border"></div>
         
         <div class="bobarawr">
-            <img src="https://friendsoffirststate.org/images/ina-banner.jpg" alt="Popup Banner" class="popup-image" />
+            <img src="https://friendsoffirststate.org/images/copy-selalu.jpg" alt="Popup Banner" class="popup-image" />
 
             <div class="popup-buttons">
-                <a href="https://friendsoffirststate.vercel.app/">LOGIN</a>
-                <a href="https://friendsoffirststate.vercel.app/">DAFTAR</a>
+                <a href="https://more.friendsoffirststate.org/">LOGIN</a>
+                <a href="https://more.friendsoffirststate.org/">DAFTAR</a>
             </div>
 
             <div class="popup-footer">
@@ -3214,5 +3215,6 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"74c1547202b740fc892e8d3e69e5cc8e","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"74c1547202b740fc892e8d3e69e5cc8e","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"c496fdbf2ee64a55b6f83b3d031eec5d","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9edd84b71c740959',t:'MTc3NjQ1MDgwOQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9edd84b71c740959',t:'MTc3NjQ1MDgwOQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9eedfd73584e8b4d',t:'MTc3NjYyMzUyNg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"e390c3d29fdd4b16ae80ae173b691d98","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
 </html>
